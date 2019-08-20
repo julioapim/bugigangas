@@ -1,0 +1,63 @@
+/*CSS*/
+body{
+	
+	color: black;
+	font-family: Arial;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-color: #35b8b0;
+	height: 100px;
+	padding: 20px;
+}
+footer{
+	clear: both;
+	background-color: #35b8b0;
+	height: 50px;
+	text-align: center;
+	padding: 10px 0px 0px 5px;
+}
+h1{
+	color: #FF7F50;
+	text-shadow: 1px 1px 1px #111111;
+	text-align:center;
+	margin: 0 0 50px 0;
+}
+#div_esq{
+	background-color: red;
+	min-height: 200px;
+	width: 60%;
+	float: left;
+}
+#div_dir{
+	min-height: 200px;
+	width: 40%;
+	float: right;
+}
+
+.container{
+	width: 960px;
+	margin: auto;	
+	font-family: Helvetica;
+}
+
+#logo{
+	float: left;
+}
+#menu{
+	
+	float: right;
+}
+#menu a{
+	text-decoration: none;
+	color: #111;
+	padding: 15px;
+
+}
+#menu a:hover{
+	background-color: #111;
+	color: #35b8b0;
+}
