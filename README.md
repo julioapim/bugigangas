@@ -7,8 +7,8 @@ Repositorio para treinar as habilidades do desenvolvedor.
 3-Entregar código
 4-Solucionar problemas
 5-Compartilhar o que voce sabe. (aqui estou montando algo na comunidade Duopana, novidades virão)
-
-#EXEMPLO DE MARKDOWN
+ 
+# EXEMPLO DE MARKDOWN
 
 ﻿
 Editores Markdown:
